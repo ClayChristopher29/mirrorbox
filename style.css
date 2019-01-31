@@ -1,0 +1,19 @@
+.flexbox-container{
+    justify-content: space-evenly;
+    display: flex;
+    width: 100vw;
+  }
+  
+  .flexbox-container article{
+      justify-content: space-evenly;
+      display: flex;
+    width: 50vw;
+  }
+
+#mirrorBlue{
+    border: 1px solid blue;
+}
+
+#mirrorOrange{
+    border: 1px solid orange;
+}
